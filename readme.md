@@ -1,2 +1,2 @@
-It contains Basic Core Programs from Day-5 .
+IT CONTAINS BASIC CORE PROGRAMS FROM DAY-5 .
 
